@@ -102,6 +102,8 @@ b.max-bold{ font-weight: 700; }
 
 .font-lite-black{ color: #999; }
 
+/* .skillsCircle{ border: 4px solid #FFA804; border-radius: 50%; } */
+
 
 /* ---------------------------------
 3. HEADER
@@ -249,7 +251,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .radial-progress{ position: relative; max-width: 200px; margin: 0 auto; }
 
 .radial-progress .progressbar-text{ font-size: 2.2em; font-weight: 500;
-	padding-bottom: 25px!important; color: #333!important; }
+	padding-bottom: 25px!important; color: #333!important; visibility: hidden; }
 
 .radial-progress .progressbar-text:after{ content:''; }
 
