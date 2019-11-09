@@ -194,10 +194,30 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .radial-progress .progress-title{ position: absolute; top: 50%; left: 50%; width: 100%;
 	letter-spacing: 0; text-align: center; transform: translate(-50%, 15px); color: #777; }
 
+
+
+/* ---------------------------------
+7. ICONS SECTION
+--------------------------------- */
+
 /* .iconify .jqueryIcon{ color: black; font-weight: 800; } */
 
 /* .nodeIcon{ font-size: 30px; } */
 
+.phpIcon{ font-size: 50px; }
+
+.iconSpacer{ visibility: hidden; }
+
+.iconImg{ font-size: 70px; }
+
+.bugIcon{ font-size: 30px; }
+
+.gitIcon,
+.githubIcon{ font-size: 30px; }
+
+.serverIcon{ font-size: 30px; }
+
+.awsIcon{ font-size: 44px; }
 
 
 /* ---------------------------------
@@ -256,7 +276,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .radial-progress .progressbar-text:after{ content:''; }
 
 .radial-progress .progress-title{ position: absolute; top: 50%; left: 50%; width: 100%;
-	letter-spacing: 0; text-align: center; transform: translate(-50%, -50%); color: #777; }
+	letter-spacing: 0; text-align: center; transform: translate(-50%, -50%); color: #777; font-size: 20px; }
 
 
 
