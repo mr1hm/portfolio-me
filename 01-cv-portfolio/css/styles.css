@@ -102,6 +102,8 @@ b.max-bold{ font-weight: 700; }
 
 .font-lite-black{ color: #999; }
 
+/* .phoneAvailability{ visibility: hidden; } */
+
 /* .skillsCircle{ border: 4px solid #FFA804; border-radius: 50%; } */
 
 
@@ -117,7 +119,7 @@ header .info{ margin-bottom: 10px; }
 
 header .info .icon{ float: left; font-size: 30px; }
 
-header .info .right-area{ margin-left: 45px; }
+header .info .right-area{ margin-left: 20px; }
 
 header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margin-top: 30px;
 	box-shadow: inset 0 0px 4px rgba(0,0,0,.3); background: #FFAD01; color: #fff;
